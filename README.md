@@ -24,22 +24,22 @@ Make sure your dataset is accessible and formatted correctly. If using Google Dr
 [Source](https://www.kaggle.com/code/abdallahwagih/brain-tumor-segmentation-unet-dice-coef-89-6/input) 
 
 🔧 Features Implemented
-Image–mask integrity check (ensures correct pairing)
+-Image–mask integrity check (ensures correct pairing)
 
-Randomized dataset splitting into training and testing sets
+-Randomized dataset splitting into training and testing sets
 
-Conversion from .tif to .nii.gz format with RGB-channel separation
+-Conversion from .tif to .nii.gz format with RGB-channel separation
 
-Setup of nnU-Net-compliant folder structure
+-Setup of nnU-Net-compliant folder structure
 
-Training a 3D Full Resolution nnU-Net model
+-Training a 3D Full Resolution nnU-Net model
 
-Model evaluation using nnU-Net prediction utility
+-Model evaluation using nnU-Net prediction utility
 
 
  ***Results & Observations***
-Segmentation results are evaluated using Dice scores and qualitative overlays.
+-Segmentation results are evaluated using Dice scores and qualitative overlays.
 
-Channel separation (RGB → modality) is necessary due to medical imaging structure.
+-Channel separation (RGB → modality) is necessary due to medical imaging structure.
 
-nnU-Net configuration automatically adapts to dataset properties.
+-nnU-Net configuration automatically adapts to dataset properties.
