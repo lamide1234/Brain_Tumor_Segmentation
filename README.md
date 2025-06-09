@@ -2,7 +2,7 @@
 This project implements an end-to-end pipeline for brain tumor image segmentation using the nnU-Net framework. It covers dataset preparation, preprocessing, model training, and evaluation, tailored for use with multi-modal MRI image data stored in .tif format.
 
 📁 Directory Structure
-
+```bash
 ├── Brain_Segmentation.ipynb       # Main notebook
 ├── images/                        # Original brain images (.tif)
 ├── masks/                         # Corresponding segmentation masks (.tif)
@@ -14,19 +14,7 @@ This project implements an end-to-end pipeline for brain tumor image segmentatio
 ├── nnUNet_raw/                   # nnU-Net raw data format
 ├── nnUNet_preprocessed/          # Preprocessed data
 ├── nnUNet_results/               # Model outputs
-
-├── Brain_Segmentation.ipynb       # Notebook
-├── images/                        # Input images
-├── masks/                         # Ground truth
-├── split_dataset/
-│   ├── images_training/
-│   ├── labels_training/
-│   ├── images_testing/
-│   └── labels_testing/
-├── nnUNet_raw/
-├── nnUNet_preprocessed/
-├── nnUNet_results/
-
+```
 
 📂 Dataset
 🔗 Google Drive- [.tif images](https://drive.google.com/drive/folders/1XBwvnhZrQQK5SXAWr2yTA4GOa9fgqQe7?usp=drive_link)
