@@ -1,1 +1,1 @@
-This project implements brain tumor image segmentation using the nnU-Net framework. It includes data preparation, preprocessing, training, and inference for automatic segmentation of brain tumor regions from medical images.
+**Brain Tumor Image Segmentation with nnU-Net**
