@@ -43,3 +43,5 @@ Make sure your dataset is accessible and formatted correctly. If using Google Dr
 -Channel separation (RGB → modality) is necessary due to medical imaging structure.
 
 -nnU-Net configuration automatically adapts to dataset properties.
+
+***Note: I do not have access to a steady GPU, hence, the results are yet to be determined***
