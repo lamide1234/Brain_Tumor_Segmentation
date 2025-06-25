@@ -20,7 +20,6 @@ This project implements an end-to-end pipeline for brain tumor image segmentatio
 🔗 Google Drive- [.tif images](https://drive.google.com/drive/folders/1XBwvnhZrQQK5SXAWr2yTA4GOa9fgqQe7?usp=drive_link)
 [nnUnet images format](https://drive.google.com/drive/folders/1Hs64C0FgBv5c638SLg20AKFmqWf4FwAy?usp=drive_link)
 
-Make sure your dataset is accessible and formatted correctly. If using Google Drive, ensure permission is set to "Anyone with the link".
 [Source](https://www.kaggle.com/code/abdallahwagih/brain-tumor-segmentation-unet-dice-coef-89-6/input) 
 
 🔧 Features Implemented
